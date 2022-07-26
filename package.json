@@ -1,0 +1,24 @@
+{
+  "name": "express_note_taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFSullivan/Express_Note_Taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFSullivan/Express_Note_Taker/issues"
+  },
+  "homepage": "https://github.com/SFSullivan/Express_Note_Taker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
